@@ -1,0 +1,3 @@
+Encontramos el error,el paso a categorías de las variables no funcionaba de igual manera para ambos archivos,
+además el primer archivos usaba [house,department,PH], mientras que el segundo [casa,departamento,ph]. Probamos bagging regressor
+mejoramos el resultado anterior en nuestras pruebas y bajamos dos cifras de nuestro mejor score en kaggle.
